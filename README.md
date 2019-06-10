@@ -1,5 +1,7 @@
 # ptt-add-push-floor
 
+Add floor information into Ptt's push lines.
+
 ## Install
 
 * https://greasyfork.org/en/scripts/385222-ptt-add-push-floor
