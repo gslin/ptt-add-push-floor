@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Ptt Add Push Floor
 // @namespace    https://wiki.gslin.org/wiki/Ptt_Add_Push_Floor
-// @version      0.20190610.0
+// @version      0.20191224.0
 // @description  Add floor number to Ptt's pushes
 // @author       Gea-Suan Lin <darkkiller@gmail.com>
 // @match        https://www.ptt.cc/bbs/*
+// @match        https://www.ptt.cc/man/*
 // @grant        none
 // @license      MIT
 // ==/UserScript==
